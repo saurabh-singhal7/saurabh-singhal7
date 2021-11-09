@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabh-singhal
-- 👀 I’m interested in ... Machine Learning and Artificial intelligence
-- 🌱 I’m currently learning ... C++ and machine learning
-- 💞️ I’m looking to collaborate on ... projects
+- 👀 I’m interested in Machine Learning and Artificial intelligence
+- 🌱 I’m currently learning C++ and machine learning
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... shoot me an email at singha25@purdue.edu
 
 <!---
